@@ -1,0 +1,31 @@
+html
+{
+    background:whitesmoke;
+}
+#heading
+{
+    background-color: #91DDCF;
+}
+#post1
+{
+    background-color:#E8C5E5;
+    margin-bottom: 0px;
+}
+#post2
+{
+    background-color:#F19ED2;
+    margin-top: 0px;
+    margin-bottom: 200px;
+}
+h1
+{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#para1
+{
+    color:black;
+    font-size: 16px;
+    font-style:italic;
+    font-weight: 300;
+}
